@@ -44,7 +44,7 @@ Make sure you have the following installed on your machine:
    ```
 5. Navigate to the server folder:
    ```bash
-   cd client
+   cd server
    ```
 
 6. Install dependencies:
@@ -55,7 +55,7 @@ Make sure you have the following installed on your machine:
 7. Set up the PostgreSQL database:
    - Create a database using the database file and update the connection details in `server/db.js` with your own.
 
-8. Run the server with nodemon:
+8. Run the server with nodemon on the server directory:
    ```bash
    npm run dev
    ```
