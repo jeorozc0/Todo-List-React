@@ -21,6 +21,7 @@ Make sure you have the following installed on your machine:
 
 - [Node.js](https://nodejs.org/)
 - [PostgreSQL](https://www.postgresql.org/)
+- [Nodemon](https://www.npmjs.com/package//nodemon)
 
 ## Installation
 1. Clone the repository:
