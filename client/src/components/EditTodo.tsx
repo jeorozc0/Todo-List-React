@@ -41,7 +41,7 @@ const EditTodo = ({ todo, updateTodos }: Props) => {
         data-toggle="modal"
         data-target={`#id${todo.todo_id}`}
       >
-        Open modal
+        Edit
       </button>
 
       <div className="modal" id={`id${todo.todo_id}`}>
