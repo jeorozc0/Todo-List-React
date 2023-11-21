@@ -57,7 +57,7 @@ Make sure you have the following installed on your machine:
 
 8. Run the server with nodemon:
    ```bash
-   nodemon index
+   npm run dev
    ```
 
 9. Open a new terminal window, navigate to the client directory, and run the React app:
