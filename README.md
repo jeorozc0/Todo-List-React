@@ -65,7 +65,7 @@ Make sure you have the following installed on your machine:
    npm start
    ```
 
-10. Visit `http://localhost:5000` in your browser to use the Todo List app.
+10. Visit `http://localhost:8080` in your browser to use the Todo List app.
 
 ## Usage
 1. Add a new task by entering the task description and clicking the "Add Task" button.
